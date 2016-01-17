@@ -1,0 +1,101 @@
+\documentclass[12pt]{article}
+\usepackage[margin=.75in]{geometry}
+\usepackage[explicit]{titlesec} 
+\usepackage{enumitem}
+
+\setlength\parindent{0pt}
+\setlist[itemize]{noitemsep, topsep=0pt}
+\renewcommand{\labelitemi}{\raisebox{0.4ex}{\tiny$\bullet$}}
+
+% reformat the section header
+\titleformat{\section} %
+  {\normalfont}{\thesection}{1em}{\textbf{\MakeUppercase{\large #1}}}
+\titlespacing\section{0pt}{12pt plus 3pt minus 2pt}{2pt plus 3pt minus 2pt}
+
+\newcommand\textbox[1]{\parbox{.333\textwidth}{#1}}
+\newcommand{\textlcr}[3]{\textbox{\textbf{#1}\hfill}\textbox{\hfil \textbf{#2}\hfil}\textbox{\hfill \textbf{#3}}}
+
+\pagenumbering{gobble} % remove page numbering
+
+\begin{document}
+\begin{center}
+	\textbf{\LARGE Nicholas Chung} \\ \vspace{.5ex}
+	nickchung114@g.ucla.edu $\cdot$ (909) 979-7140 $\cdot$ www.linkedin.com/in/nc114
+\end{center}
+
+\section*{Education}
+\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+
+\textbf{Bachelor of Science in Electrical Engineering}\hfill\textbf{Jun. 2017}
+\begin{itemize}
+\item GPA: 3.57
+\end{itemize}
+
+\textbf{Courses to be completed as of}\hfill\textbf{Jun. 2016}
+\begin{itemize}
+\item CS: Artificial Intelligence
+\item EE: Communication Systems, Applications of Graph Theory, Analog Circuits, Speech and Image Processing Systems Design
+\end{itemize}
+
+\textbf{Courses completed as of}\hfill\textbf{Jan. 2016}
+\begin{itemize}
+\item CS: Computer Science I/II, Discrete Structures, Introduction to Algorithms
+\item EE: Circuit Theory I/II, Systems and Signals, Digital Signal Processing, Mathematics of Design, Control Feedback Theory
+\end{itemize}
+
+\section*{Experience}
+\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+
+\textlcr{Student Researcher}{Project Premonition}{Nov. 2015 - Present} \\
+\textit{Microsoft research aimed at detecting pathogens prior to outbreaks using drones and mosquito traps.}
+\begin{itemize}
+\item Design and simulate trajectory, attitude, and motor controllers using MATLAB and Simulink.
+\item Port MATLAB code into C using...
+\end{itemize}
+
+\bigskip
+\textlcr{Student Researcher}{TANMS}{Jan. 2016 - Present}
+\begin{itemize}
+\item Learn the fundamental of nanoscale, multiferroic elements through weekly modules using software including LabVIEW and AutoCAD
+\item Research methods to improve energy efficiency in consumer electronics alongside professors and graduate students of multidisciplinary backgrounds
+\end{itemize}
+
+\bigskip
+\textlcr{Traction Power Intern}{Metrolink}{Summer 2015}
+\begin{itemize}
+\item Analyzed as-built drawings and railroad circuit schematics to compile data spreadsheets
+\item Traced ETS circuit relays to add data to the button-breaker matrix
+\end{itemize}
+
+\section*{Projects}
+\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+
+\textlcr{NATCAR}{IEEE}{Sept. 2014 - Mar. 2015}
+\begin{itemize}
+\item Built components of the line-following car, including H-bridges, AFE sensors, wave rectifier
+\item Designed and printed a PCB using EAGLE Schematics
+\item Programmed a microcontroller to process input sensory data from a line sensor
+\end{itemize}
+
+\bigskip
+\textlcr{Audio-Interface Clock}{Intro to EE}{Jan. 2014 - Mar. 2014}
+\begin{itemize}
+\item Programmed using LabVIEW a finite-state machine for processing audio input
+\item Implemented a circuit to detect audio cues, allowing interaction with the alarm clock
+\end{itemize}
+
+\section*{Leadership}
+\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+
+\textlcr{Vice President}{EE Honors Society}{Sept. 2015 - Jun. 2016}
+\begin{itemize}
+\item Work closely with faculty to coordinate informational panels, department townhalls, and professional development workshops
+\end{itemize}
+
+\section*{Skills}
+\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+\begin{itemize}
+\item \textbf{CS}: Java, C, C++, HTML/CSS, Python, Javascript, Git
+\item \textbf{EE}: Eagle Schematics, Logisim, MATLAB, Simulink, LabVIEW, LaTEX, Soldering
+\end{itemize}
+\end{document}
