@@ -1,10 +1,16 @@
 \documentclass[12pt]{article}
-\usepackage[margin=.75in]{geometry}
-\usepackage[explicit]{titlesec} 
-\usepackage{enumitem}
-
-\usepackage[T1]{fontenc}
-\usepackage[default]{gillius}
+\usepackage[left	=.75in,%
+			top		=.65in,%			
+			right	=.75in,%
+			bottom	=.75in,%
+			footskip = 3ex]{geometry}	% to adjust the margins
+\usepackage[explicit]{titlesec}		% to change the section headers
+\usepackage{enumitem}				% for modification of item lists
+\usepackage{fancyhdr}
+\pagestyle{fancy} 					% for the footer
+%\usepackage[T1]{fontenc}			
+\usepackage[default]{gillius}		% change to a sans-serif font
+\usepackage[usenames, dvipsnames]{color}	% for gray text
 
 %\renewcommand{\familydefault}{\sfdefault}
 
@@ -21,6 +27,11 @@
 \newcommand{\textlcr}[3]{\textbox{\textbf{#1}\hfill}\textbox{\hfil \textbf{#2}\hfil}\textbox{\hfill \textbf{#3}}}
 
 \pagenumbering{gobble} % remove page numbering
+
+\definecolor{mygray}{gray}{0.6}
+
+\renewcommand{\headrulewidth}{0pt}	% remove horizontal line at top
+\rfoot{\color{mygray} \textit{https://github.com/nickchung114/LaTEX-Resume/blob/master/Nicholas\_Chung.pdf}}
 
 \begin{document}
 \begin{center}

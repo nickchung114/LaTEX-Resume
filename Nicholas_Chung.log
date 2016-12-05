@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.1)  4 DEC 2016 19:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.1)  4 DEC 2016 20:11
 entering extended mode
 **Nicholas_Chung.tex
 
@@ -83,13 +83,17 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box27
 \enitdp@description=\count90
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
-))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\gillius\gillius.sty"
 Package: gillius 2013/11/03 (Bob Tennent) Supports Gillius fonts for all LaTeX 
 engines.
@@ -198,35 +202,57 @@ LaTeX Info: Redefining \itshape on input line 31.
 LaTeX Info: Redefining \slshape on input line 33.
 LaTeX Info: Redefining \scshape on input line 37.
 ))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
 (C:\Users\Nicholas\Documents\0me\UCLA\4\resume_interview\tex\Nicholas_Chung.aux
 )
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 36.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Try loading font information for T1+GilliusADF-LF on input 
-line 25.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Try loading font information for OT1+GilliusADF-LF on input
+ line 36.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\gillius\t1gilliusadf-lf.fd"
-File: T1GilliusADF-LF.fd 2013/11/03 (autoinst) Font definitions for T1/GilliusA
-DF-LF.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\gillius\ot1gilliusadf-lf.fd"
+File: OT1GilliusADF-LF.fd 2013/11/03 (autoinst) Font definitions for OT1/Gilliu
+sADF-LF.
 )
-LaTeX Font Info:    Font shape `T1/GilliusADF-LF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 25.
+LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -237,18 +263,18 @@ LaTeX Font Info:    Font shape `T1/GilliusADF-LF/m/n' will be
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
-* v-part:(T,H,B)=(54.2025pt, 686.56499pt, 54.2025pt)
+* v-part:(T,H,B)=(46.97505pt, 693.79243pt, 54.2025pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=505.89pt
-* \textheight=686.56499pt
+* \textheight=693.79243pt
 * \oddsidemargin=-18.06749pt
 * \evensidemargin=-18.06749pt
-* \topmargin=-55.06749pt
+* \topmargin=-62.29494pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
-* \footskip=30.0pt
+* \footskip=15.50002pt
 * \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
@@ -262,52 +288,79 @@ LaTeX Font Info:    Font shape `T1/GilliusADF-LF/m/n' will be
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count92
-\c@mv@boldtabular=\count93
-LaTeX Font Info:    Font shape `T1/GilliusADF-LF/bx/n' in size <12> not availab
-le
-(Font)              Font shape `T1/GilliusADF-LF/b/n' tried instead on input li
-ne 27.
-LaTeX Font Info:    Font shape `T1/GilliusADF-LF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 27.
-LaTeX Font Info:    Font shape `T1/GilliusADF-LF/bx/n' in size <20.74> not avai
+\c@mv@tabular=\count93
+\c@mv@boldtabular=\count94
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen117
+\scratchbox=\box28
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen118
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks21
+)
+LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/bx/n' in size <12> not availa
+ble
+(Font)              Font shape `OT1/GilliusADF-LF/b/n' tried instead on input l
+ine 38.
+LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 38.
+LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/bx/n' in size <20.74> not ava
+ilable
+(Font)              Font shape `OT1/GilliusADF-LF/b/n' tried instead on input l
+ine 38.
+LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/b/n' will be
+(Font)              scaled to size 20.74pt on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 39.
+LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/bx/n' in size <14.4> not avai
 lable
-(Font)              Font shape `T1/GilliusADF-LF/b/n' tried instead on input li
-ne 27.
-LaTeX Font Info:    Font shape `T1/GilliusADF-LF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 27.
+(Font)              Font shape `OT1/GilliusADF-LF/b/n' tried instead on input l
+ine 44.
+LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 44.
+LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 28.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 28.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 28.
-LaTeX Font Info:    Font shape `T1/GilliusADF-LF/bx/n' in size <14.4> not avail
-able
-(Font)              Font shape `T1/GilliusADF-LF/b/n' tried instead on input li
-ne 33.
-LaTeX Font Info:    Font shape `T1/GilliusADF-LF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 33.
-LaTeX Font Info:    Font shape `T1/GilliusADF-LF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 38.
-LaTeX Font Info:    Font shape `T1/GilliusADF-LF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 57.
+(Font)              <5> on input line 49.
+LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 68.
+LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/sl' in size <12> not availa
+ble
+(Font)              Font shape `OT1/GilliusADF-LF/m/it' tried instead on input 
+line 129.
+LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 129.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (C:\Users\Nicholas\Documents\0me\UCLA\4\resume_interview\tex\Nicholas_Chung.aux
 ) ) 
 Here is how much of TeX's memory you used:
- 2411 strings out of 493921
- 36155 string characters out of 3144867
- 93349 words of memory out of 3000000
- 5702 multiletter control sequences out of 15000+200000
- 20242 words of font info for 40 fonts, out of 3000000 for 9000
+ 3493 strings out of 493921
+ 51010 string characters out of 3144867
+ 111937 words of memory out of 3000000
+ 6762 multiletter control sequences out of 15000+200000
+ 13222 words of font info for 39 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,4n,34p,190b,195s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/gillius/gls_4bsedw.enc}<C
+ 36i,11n,43p,214b,245s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/gillius/gls_a6mi7n.enc}<C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/arkandis/gillius/GilliusADF-Bold.p
 fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/arkandis/gillius/GilliusADF-I
 talic.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/arkandis/gillius/Gilli
@@ -315,7 +368,7 @@ usADF-Regular.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy6.pfb>
-Output written on Nicholas_Chung.pdf (1 page, 69440 bytes).
+Output written on Nicholas_Chung.pdf (1 page, 70490 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
