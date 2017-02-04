@@ -1,0 +1,133 @@
+\documentclass[12pt]{article}
+%\usepackage[thin]{roboto}
+%\usepackage[T1]{fontenc}
+%\usepackage{xltxtra}
+%\setmainfont{LinBiolinum_R}
+\usepackage[left	=.75in,%
+			top		=.65in,%
+			right	=.75in,%
+			bottom	=.75in,%
+			footskip = 3ex]{geometry}	% to adjust the margins
+\usepackage[explicit]{titlesec}		% to change the section headers
+\usepackage{enumitem}				% for modification of item lists
+\usepackage{fancyhdr}
+\pagestyle{fancy} 					% for the footer
+%\usepackage[T1]{fontenc}			
+%\usepackage[default]{gillius}		% change to a sans-serif font
+\usepackage[usenames, dvipsnames]{color}	% for gray text
+
+%\renewcommand{\familydefault}{\sfdefault}
+
+\font\SectionHeaders="[LinBiolinum_R.otf]:letterspace=5" at 20pt
+
+\setlength\parindent{0pt}
+\setlist[itemize]{noitemsep, topsep=0pt}
+\renewcommand{\labelitemi}{\raisebox{0.4ex}{\tiny$\bullet$}}
+
+% reformat the section header
+\titleformat{\section} %
+  {\normalfont}{\thesection}{1em}{\textbf{\MakeUppercase{\large #1}}}
+\titlespacing\section{0pt}{12pt plus 3pt minus 2pt}{2pt plus 3pt minus 2pt}
+
+\newcommand\textbox[1]{\parbox{.333\textwidth}{#1}}
+\newcommand{\textlcr}[3]{\textbox{\textbf{#1}\hfill}\textbox{\hfil \textbf{#2}\hfil}\textbox{\hfill \textbf{#3}}}
+
+\pagenumbering{gobble}	% remove page numbering
+\renewcommand{\headrulewidth}{0pt}	% remove horizontal line at top
+
+\definecolor{mygray}{gray}{0.6}	% color for the footer
+\rfoot{\color{mygray} Latest version at \textit{https://github.com/nickchung114/LaTEX-Resume/blob/master/Nicholas\_Chung.pdf}}
+
+\begin{document}
+\begin{center}
+	\textbf{\LARGE Nicholas Chung} \\ \vspace{.5ex}
+	nickchung114@g.ucla.edu $\cdot$ (909) 979-7140 $\cdot$ www.linkedin.com/in/nc114 $\cdot$ US Citizen
+\end{center}
+
+\vspace*{-15pt}
+\section*{Education}
+\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+
+\textbf{Bachelor of Science in Electrical Engineering}\hfill\textbf{Jun. 2017}
+\begin{itemize}
+\item GPA: 
+\end{itemize}
+
+\textbf{Coursework to be completed as of}\hfill\textbf{Mar. 2017}
+\begin{itemize}
+\item EE: Systems Design Capstone, Digital Speech Processing II
+\item CS: Modeling and Simulation of Biological Systems
+\end{itemize}
+
+\textbf{Coursework completed as of}\hfill\textbf{Dec. 2016}
+\begin{itemize}
+\item CS: Computer Science I/II, Discrete Structures, Introduction to Algorithms
+\item EE: Digital Signal Processing, Intro to Digital Systems, Control Feedback Theory, Graph Theory, Analog Circuits,  Speech \& Image Processing
+\end{itemize}
+
+\section*{Projects}
+\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+
+\textlcr{Team Member}{Orchestra Anywhere}{Oct. 2016 - Present}
+\\ \textit{Final project for capstone design course using localization and gesture recognition to play music.}
+\begin{itemize}
+\item Calibrating 9DoF sensors and filtering noise using a Kalman filter to classify measurements
+\item Using TCP/IP sensor network to process IMU measurements and estimate user's location
+\end{itemize}
+
+\bigskip
+\textlcr{Team Member}{IEEE: Advanced Projects}{Oct. 2016 - Present}
+\begin{itemize}
+\item Implemented SPI and I$^2$C on two microcontrollers to learn fundamental communication concepts
+\item Building a mini-quadcopter that will have a PID controller and communicate with a computer 
+\end{itemize}
+
+\bigskip
+\textlcr{Team Member}{IEEE: NATCAR}{Sept. 2014 - Mar. 2015}
+\begin{itemize}
+\item Built components of the line-following car, including an H-bridge, AFE sensors, and a wave rectifier
+\item Designed and printed a PCB using EAGLE to process input sensory data from a line sensor
+\end{itemize}
+
+\iffalse
+\bigskip
+\textlcr{Audio-Interface Clock}{Introduction to EE}{Jan. 2014 - Mar. 2014}
+\begin{itemize}
+\item Programmed using LabVIEW a finite-state machine for processing audio input
+\item Implemented a circuit to detect audio cues, allowing interaction with the alarm clock
+\end{itemize}
+\fi
+
+\section*{Experience}
+\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+
+\textlcr{Team Member}{Project Premonition}{Nov. 2015 - Oct. 2016}
+\\ \textit{Microsoft research aimed at detecting pathogens prior to outbreaks using drones and mosquito traps.}
+\begin{itemize}
+\item Translated existing MATLAB code to Simulink block diagram for easier controller simulation
+\item Understand the PID control for position in the Pixhawk and where to add a Kalman filter
+\end{itemize}
+
+\bigskip
+\textlcr{Student Intern}{EPSS Lab at UCLA}{Jun. 2016 - Oct. 2016}
+\begin{itemize}
+\item Developed schematics and pcb layouts for various component libraries following IPC standards
+\item Debugged and collected measurements while testing various circuit boards
+\end{itemize}
+
+\section*{Leadership}
+\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+
+\textlcr{VP of Operations}{IEEE-HKN: Honors Society}{Sept. 2015 - Jun. 2016}
+\begin{itemize}
+\item Supported officers with weekly meetings and clarification of responsibilities
+\item Coordinated Q/A panels, department townhalls, and professional-development workshops
+\end{itemize}
+
+\section*{Skills}
+\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+\begin{itemize}
+\item \textbf{CS}: Java, C, C++, HTML/CSS, Python, Git
+\item \textbf{EE}: Altium, LTSpice, Logisim, MATLAB/Simulink, LabVIEW, LaTEX, Soldering
+\end{itemize}
+\end{document}
