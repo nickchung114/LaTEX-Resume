@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210) (preloaded format=pdflatex 2017.1.25)  11 FEB 2017 00:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210) (preloaded format=pdflatex 2017.1.25)  20 MAR 2017 03:02
 entering extended mode
 **./Nicholas_Chung.tex
 (Nicholas_Chung.tex
@@ -332,9 +332,9 @@ LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/it' will be
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/sl' in size <12> not availa
 ble
 (Font)              Font shape `OT1/GilliusADF-LF/m/it' tried instead on input 
-line 129.
+line 132.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 129.
+(Font)              scaled to size 12.0pt on input line 132.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -348,7 +348,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  3511 strings out of 493366
  51067 string characters out of 3137297
- 117021 words of memory out of 3000000
+ 118021 words of memory out of 3000000
  7000 multiletter control sequences out of 15000+200000
  13222 words of font info for 39 fonts, out of 3000000 for 9000
  1127 hyphenation exceptions out of 8191
@@ -362,7 +362,7 @@ Regular.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.p
 fb>
-Output written on Nicholas_Chung.pdf (1 page, 70482 bytes).
+Output written on Nicholas_Chung.pdf (1 page, 71083 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
