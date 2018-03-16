@@ -1,12 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210) (preloaded format=pdflatex 2017.1.25)  20 MAR 2017 03:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.16)  16 MAR 2018 01:18
 entering extended mode
 **./Nicholas_Chung.tex
 (Nicholas_Chung.tex
-LaTeX2e <2017/01/01>
-Babel <3.9r> and hyphenation patterns for 72 language(s) loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cl
+s"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -21,21 +24,26 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geomet
+ry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval
+.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpd
+f.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvt
+ex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxet
+ex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -51,8 +59,10 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geomet
+ry.cfg"))
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titles
+ec.sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box26
 \beforetitleunit=\skip43
@@ -64,7 +74,8 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen114
 \titlewidthfirst=\dimen115
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumit
+em.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip45
 \enit@outerparindent=\dimen116
@@ -72,39 +83,47 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box27
 \enitdp@description=\count90
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
-Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
-\fancy@headwidth=\skip46
-\f@ncyO@elh=\skip47
-\f@ncyO@erh=\skip48
-\f@ncyO@olh=\skip49
-\f@ncyO@orh=\skip50
-\f@ncyO@elf=\skip51
-\f@ncyO@erf=\skip52
-\f@ncyO@olf=\skip53
-\f@ncyO@orf=\skip54
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyh
+dr.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip46
+\f@nch@O@elh=\skip47
+\f@nch@O@erh=\skip48
+\f@nch@O@olh=\skip49
+\f@nch@O@orh=\skip50
+\f@nch@O@elf=\skip51
+\f@nch@O@erf=\skip52
+\f@nch@O@olf=\skip53
+\f@nch@O@orf=\skip54
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\gillius\gillius.sty"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\gillius\gillius
+.sty"
 Package: gillius 2013/11/03 (Bob Tennent) Supports Gillius fonts for all LaTeX 
 engines.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\iflu
+atex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval
+.sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyv
+al.tex"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvut
+ils.tex"
 \XKV@toks=\toks18
 \XKV@tempa@toks=\toks19
 )
 \XKV@depth=\count91
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
-Package: textcomp 2016/12/11 v2.0a Standard LaTeX package
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.s
+ty"
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
 (textcomp)               4 = 5 + \texteuro
@@ -118,7 +137,8 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def
+"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 334.
@@ -185,69 +205,79 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2016/12/11 v2.0a Standard LaTeX package
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.st
+y"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fontaxes\fontaxes.sty"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fontaxes\fontax
+es.sty"
 Package: fontaxes 2014/03/23 v1.0d Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
 LaTeX Info: Redefining \slshape on input line 33.
 LaTeX Info: Redefining \scshape on input line 37.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.
+sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\co
+lor.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pd
+ftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count92
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsn
+am.def"
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-(Nicholas_Chung.aux)
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks20
+\SOUL@lasttoken=\toks21
+\SOUL@cmds=\toks22
+\SOUL@buffer=\toks23
+\SOUL@token=\toks24
+\SOUL@spaceskip=\skip55
+\SOUL@ttwidth=\dimen117
+\SOUL@uldp=\dimen118
+\SOUL@ulht=\dimen119
+) (Nicholas_Chung.aux)
 \openout1 = `Nicholas_Chung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 38.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    ... okay on input line 38.
 LaTeX Font Info:    Try loading font information for OT1+GilliusADF-LF on input
- line 36.
+ line 38.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\gillius\ot1gilliusadf-lf.fd"
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\gillius\ot1gill
+iusadf-lf.fd"
 File: OT1GilliusADF-LF.fd 2013/11/03 (autoinst) Font definitions for OT1/Gilliu
 sADF-LF.
 )
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 36.
+(Font)              scaled to size 12.0pt on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -283,58 +313,56 @@ LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/n' will be
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count93
-\c@mv@boldtabular=\count94
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+\c@mv@tabular=\count92
+\c@mv@boldtabular=\count93
+
+("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf
+.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count95
-\scratchdimen=\dimen117
+\scratchcounter=\count94
+\scratchdimen=\dimen120
 \scratchbox=\box28
-\nofMPsegments=\count96
-\nofMParguments=\count97
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count98
-\MPscratchDim=\dimen118
-\MPnumerator=\count99
-\makeMPintoPDFobject=\count100
-\everyMPtoPDFconversion=\toks21
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen121
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks26
 )
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/bx/n' in size <12> not availa
 ble
 (Font)              Font shape `OT1/GilliusADF-LF/b/n' tried instead on input l
-ine 38.
+ine 40.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 38.
+(Font)              scaled to size 12.0pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/bx/n' in size <20.74> not ava
 ilable
 (Font)              Font shape `OT1/GilliusADF-LF/b/n' tried instead on input l
-ine 38.
+ine 40.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 38.
+(Font)              scaled to size 20.74pt on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 39.
+(Font)              <12> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 39.
+(Font)              <8> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 39.
-LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/bx/n' in size <14.4> not avai
-lable
-(Font)              Font shape `OT1/GilliusADF-LF/b/n' tried instead on input l
-ine 44.
-LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 44.
+(Font)              <6> on input line 41.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 49.
+(Font)              scaled to size 14.4pt on input line 46.
+LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 49.
+(Font)              <5> on input line 51.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 68.
+(Font)              scaled to size 12.0pt on input line 74.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/sl' in size <12> not availa
 ble
 (Font)              Font shape `OT1/GilliusADF-LF/m/it' tried instead on input 
-line 132.
+line 122.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 132.
+(Font)              scaled to size 12.0pt on input line 122.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -344,25 +372,26 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (Nicholas_Chung.aux) ) 
+{C:/Users/Nicholas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(Nicholas_Chung.aux) ) 
 Here is how much of TeX's memory you used:
- 3511 strings out of 493366
- 51067 string characters out of 3137297
- 118021 words of memory out of 3000000
- 7000 multiletter control sequences out of 15000+200000
- 13222 words of font info for 39 fonts, out of 3000000 for 9000
- 1127 hyphenation exceptions out of 8191
+ 3431 strings out of 493305
+ 51083 string characters out of 3128497
+ 116779 words of memory out of 3000000
+ 6954 multiletter control sequences out of 15000+200000
+ 13523 words of font info for 40 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
  35i,11n,43p,224b,237s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:
-/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/gillius/gls_a6mi7n.enc}<C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/arkandis/gillius/GilliusADF-Bold.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/arkandis/gillius/GilliusADF-Italic.
-pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/arkandis/gillius/GilliusADF-
-Regular.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.p
-fb>
-Output written on Nicholas_Chung.pdf (1 page, 71083 bytes).
+{C:/Users/Nicholas/AppData/Local/Programs/MiKTeX 2.9/font
+s/enc/dvips/gillius/gls_a6mi7n.enc}<C:/Users/Nicholas/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/arkandis/gillius/GilliusADF-Bold.pfb><C:/Users/Nicholas/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/arkandis/gillius/GilliusADF-Italic.
+pfb><C:/Users/Nicholas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arkandis/g
+illius/GilliusADF-Regular.pfb><C:/Users/Nicholas/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Nicholas/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Nicholas/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+Output written on Nicholas_Chung.pdf (1 page, 71175 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
