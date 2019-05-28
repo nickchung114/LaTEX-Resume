@@ -11,18 +11,16 @@
 %\usepackage[T1]{fontenc}			
 \usepackage[default]{gillius}		% change to a sans-serif font
 \usepackage[usenames, dvipsnames]{color}	% for gray text
-\usepackage{soul}
 
 %\renewcommand{\familydefault}{\sfdefault}
 
 \setlength\parindent{0pt}
 \setlist[itemize]{noitemsep, topsep=0pt}
 \renewcommand{\labelitemi}{\raisebox{0.4ex}{\tiny$\bullet$}}
-\sodef\letspa{}{.3em}{.5em plus1em}{1em plus.1em minus.1em}
 
 % reformat the section header
 \titleformat{\section} %
-  {\normalfont}{\thesection}{1em}{\MakeUppercase{\large \letspa{#1}}} %{\textbf{\MakeUppercase{\large #1}}}
+  {\normalfont}{\thesection}{1em}{\MakeUppercase{\large #1}} %{\textbf{\MakeUppercase{\large #1}}}
 \titlespacing\section{0pt}{12pt plus 3pt minus 2pt}{2pt plus 3pt minus 2pt}
 
 \newcommand\textbox[1]{\parbox{.333\textwidth}{#1}}
@@ -38,11 +36,48 @@
 \begin{document}
 \begin{center}
 	\textbf{\LARGE Nicholas Chung} \\ \vspace{.5ex}
-	nickchung114@g.ucla.edu $\cdot$ (909) 979-7140 $\cdot$ www.linkedin.com/in/nc114 $\cdot$ US Citizen
+	nickchung114@gmail.com $\cdot$ (909) 979-7140 $\cdot$ www.linkedin.com/in/nc114 $\cdot$ US Citizen $\cdot$ Secret clearance
 \end{center}
 
 \vspace{-8pt}
 \smallskip
+
+\section*{Experience}
+\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+
+\textlcr{Sensors Engineer}{Northrop Grumman}{Jul. 2018 - Present}
+\begin{itemize}
+\item Integrating cRIO and PC hardware with high-speed centrifuge to gather metrics on accelerometers
+\item Worked with lead software engineer to develop a LabView suite for tuning and testing gyroscopes
+\item Wrote 500+ lines of SQL and MATLAB to mine data from Oracle database and analyze trends on combinations of sensor parameters
+\item Collaborated with off-site and on-site teams to manage scheduling through GANTT charts
+\end{itemize}
+
+\bigskip
+\textlcr{Embedded Software Engineer}{Northrop Grumman}{Jul. 2017 - Jun. 2018}
+\begin{itemize}
+\item Wrote 1000+ lines of MATLAB to automate Simulink test suite and custom report generation, improving labor efficiency by 40\%
+\item Worked with software lead to design project development infrastructure in ClearCase
+\item Re-baselined legacy code to be compatible with new GreenHills RTOS
+\item Generated bi-directional traceability matrices using DOORS
+\item Compiled and peer-reviewed software design document
+\end{itemize}
+
+\section*{Leadership}
+\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+
+\textlcr{LA Pathways Chapter Lead}{Northrop Grumman}{Oct. 2017 - Present}
+\begin{itemize}
+\item Coordinate Lunch \& Learn sessions to disseminate technical information to newer employees
+\item Head two site councils and support their professional development activities
+\end{itemize}
+
+\textlcr{FABLAB Committee Member}{Northrop Grumman}{Feb. 2018 - Present}
+\begin{itemize}
+\item Draft and finalize proposal for site executives and legal team
+\item Teaching 3D printing fundamentals course and maintaining 3D printers
+\end{itemize}
+
 \section*{Education}
 \vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
 
@@ -57,26 +92,6 @@
 \item EE: Digital Signal Processing, Control Feedback Theory, Graph Theory, Speech \& Image Processing
 \end{itemize}
 
-\section*{Experience}
-\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
-
-\textlcr{Embedded Software Engineer}{Northrop Grumman}{Jul. 2017 - Present}
-\begin{itemize}
-\item Generated bi-directional traceability matrices using DOORS
-\item Compiled and peer-reviewed software design document
-\item Wrote MATLAB test scripts to automate Simulink test suites and custom report generation
-\item Supported the design of software development infrastructure in ClearCase
-\item Porting legacy code to newer GreenHills RTOS and debugging related errors
-\end{itemize}
-
-\bigskip
-\textlcr{Team Member}{Project Premonition}{Nov. 2015 - Oct. 2016}
-\\ \textit{Microsoft research aimed at detecting pathogens prior to outbreaks using drones and mosquito traps.}
-\begin{itemize}
-\item Translated existing MATLAB code to Simulink block diagram for easier controller simulation
-\item Researched potential applications of a Kalman filter to supplement the PID code in Pixhawk
-\end{itemize}
-
 \section*{Projects}
 \vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
 
@@ -89,34 +104,10 @@
 \item Supported real-time gait-tracking development combining open-source software and windowing
 \end{itemize}
 
-\bigskip
-\textlcr{Team Lead}{IEEE: Advanced Projects}{Oct. 2016 - Apr. 2017}
-\begin{itemize}
-\item Integrated radio, IMU, and microcontroller modules to build a mini-quadcopter
-\item Tested and debugged individual modules regarding SPI, I$^2$C, and low-side switching
-\item Designed a 2-layer PCB using EAGLE to compactly contain surface-mount components
-\end{itemize}
-
-\section*{Leadership}
-\vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
-
-\textlcr{LA PDP Chapter Lead}{Northrop Grumman}{Oct. 2017 - Present}
-\begin{itemize}
-\item Coordinate Lunch \& Learn sessions to disseminate technical information to newer employees
-\item Head two site councils and support their professional development activities
-\end{itemize}
-
-\bigskip
-\textlcr{VP of Operations}{IEEE-HKN: Honors Society}{Sept. 2015 - Jun. 2016}
-\begin{itemize}
-\item Supported officers with weekly meetings and clarification of responsibilities
-\item Coordinated Q/A panels, department townhalls, and professional-development workshops
-\end{itemize}
-
 \section*{Skills}
 \vspace*{-1em}\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
 \begin{itemize}
-\item \textbf{CS}: Python, C++, Git, LaTEX, HTML/CSS
-\item \textbf{EE}: MATLAB, Simulink, EAGLE Schematics, LabVIEW,  Altium, Logisim
+\item \textbf{Software}: MATLAB, Simulink, LabView, Python, SQL, C++, Git, LaTEX, HTML/CSS, DOORS
+\item \textbf{Hardware}: CompactRIO, 3D printing, general lab equipment (oscilloscope, function generator, multimeter), soldering
 \end{itemize}
 \end{document}

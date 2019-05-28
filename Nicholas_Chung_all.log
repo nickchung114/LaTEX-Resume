@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.16)  28 MAY 2019 01:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.16)  28 MAY 2019 00:43
 entering extended mode
-**./Nicholas_Chung.tex
-(Nicholas_Chung.tex
+**./Nicholas_Chung_all.tex
+(Nicholas_Chung_all.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
 
@@ -234,8 +234,8 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ("C:\Users\Nicholas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsn
 am.def"
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (Nicholas_Chung.aux)
-\openout1 = `Nicholas_Chung.aux'.
+)) (Nicholas_Chung_all.aux)
+\openout1 = `Nicholas_Chung_all.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
@@ -338,19 +338,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 39.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 45.
+(Font)              scaled to size 14.4pt on input line 44.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 50.
+(Font)              scaled to size 6.0pt on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 50.
+(Font)              <5> on input line 49.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 99.
+(Font)              scaled to size 12.0pt on input line 68.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/sl' in size <12> not availa
 ble
 (Font)              Font shape `OT1/GilliusADF-LF/m/it' tried instead on input 
-line 113.
+line 126.
 LaTeX Font Info:    Font shape `OT1/GilliusADF-LF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 113.
+(Font)              scaled to size 12.0pt on input line 126.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -361,26 +361,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [1
 
 {C:/Users/Nicholas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(Nicholas_Chung.aux) ) 
+[2] (Nicholas_Chung_all.aux) ) 
 Here is how much of TeX's memory you used:
  3260 strings out of 493305
- 48911 string characters out of 3128497
- 112260 words of memory out of 3000000
+ 48951 string characters out of 3128497
+ 113260 words of memory out of 3000000
  6788 multiletter control sequences out of 15000+200000
  13210 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,11n,43p,224b,237s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Nicholas/AppData/Local/Programs/MiKTeX 2.9/font
-s/enc/dvips/gillius/gls_a6mi7n.enc}<C:/Users/Nicholas/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/arkandis/gillius/GilliusADF-Bold.pfb><C:/Users/Nicholas/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/arkandis/gillius/GilliusADF-Italic.
-pfb><C:/Users/Nicholas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arkandis/g
-illius/GilliusADF-Regular.pfb><C:/Users/Nicholas/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Nicholas/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on Nicholas_Chung.pdf (1 page, 63586 bytes).
+ 37i,11n,43p,228b,334s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Nicholas/AppData/Local/Programs/MiKTeX 
+2.9/fonts/enc/dvips/gillius/gls_a6mi7n.enc}<C:/Users/Nicholas/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/arkandis/gillius/GilliusADF-Bold.pfb><C:/Users/Nic
+holas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arkandis/gillius/GilliusADF
+-Italic.pfb><C:/Users/Nicholas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ar
+kandis/gillius/GilliusADF-Regular.pfb><C:/Users/Nicholas/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Nicholas/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/N
+icholas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.
+pfb>
+Output written on Nicholas_Chung_all.pdf (2 pages, 73869 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
